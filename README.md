@@ -10,6 +10,10 @@ Hey there! This is some of my design work that I'm proud to share with you.
 |:---:|
 | ![Astra Space Club](./ui-design/astra-space-club-web.png) |
 
+| Fossmec Website |
+|:---:|
+| ![Fossmec Web](./ui-design/fossmec-web.png) |
+
 | Event Management Dashboard Design - EventSync |
 |:---:|
 | ![EventSync Dashboard](./ui-design/eventsync-dashboard.png) |
